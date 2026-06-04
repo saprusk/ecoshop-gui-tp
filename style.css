@@ -24,3 +24,8 @@ nav {
     background-color: #0f172a !important; /* Fond noir profond */
     color: #f8fafc !important; /* Texte blanc brillant */
 }
+
+nav p {
+    letter-spacing: 0.05em;
+    word-spacing: 10px;
+}
