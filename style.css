@@ -19,3 +19,10 @@ nav {
 .hero h2 {
     text-transform: uppercase;
 }
+
+.footer {
+    border-top: 1px solid #e2e8f0;
+    padding: 20px 0;
+    font-size: 0.875rem;
+    color: #64748b;
+}
