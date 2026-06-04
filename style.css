@@ -8,8 +8,8 @@ body {
     font-family: "Comic Sans MS", "Comic Sans", cursive; /* Police non professionnelle */
 }
 
-#header-moche {
-    background-color: #0000ff; /* Bleu primaire brut */
+nav {
+    background-color: #000000; /* Bleu primaire brut */
     color: #ffffff;
     padding: 25px;
     text-align: center;
