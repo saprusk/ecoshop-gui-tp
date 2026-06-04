@@ -1,0 +1,21 @@
+/* ==========================================================================
+   ⚠️ ATTENTION : DESIGN TEMPORAIRE DE DÉPART (À RESTUCTURER EN PHASE 1)
+   ========================================================================== */
+
+body {
+    background-color: #ffff00; /* Jaune fluo agressif */
+    color: #ff0000; /* Texte rouge vif illisible */
+    font-family: "Comic Sans MS", "Comic Sans", cursive; /* Police non professionnelle */
+}
+
+#header-moche {
+    background-color: #0000ff; /* Bleu primaire brut */
+    color: #ffffff;
+    padding: 25px;
+    text-align: center;
+    border-bottom: 8px solid #ff00ff; /* Ligne fuchsia */
+}
+
+.hero h2 {
+    text-transform: uppercase;
+}
