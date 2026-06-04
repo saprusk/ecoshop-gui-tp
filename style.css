@@ -19,3 +19,8 @@ nav {
 .hero h2 {
     text-transform: uppercase;
 }
+
+.black-friday {
+    background-color: #0f172a !important; /* Fond noir profond */
+    color: #f8fafc !important; /* Texte blanc brillant */
+}
